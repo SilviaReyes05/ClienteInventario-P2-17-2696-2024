@@ -296,7 +296,7 @@ git push origin main
 
 ## Parcial 2 — Consumo de API (completar por el estudiante)
 
-**Nombre:** _________________________________ · **Carnet:** ______________
+**Nombre:** Silvia Arely Reyes Rodriguez · **Carnet:** 17-2696-2024
 
 ### Salida de consola (segunda ejecución)
 
